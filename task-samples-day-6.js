@@ -58,8 +58,8 @@
     newCars[0]= "Saab";
     newCars[1]= "Volvo";
     newCars[2]= "BMW";
-	newCars[3]= "Mercedes";
-	console.log('createted an array, and then provide the elements:',newCars)
+    newCars[3]= "Mercedes";
+    console.log('createted an array, and then provide the elements:',newCars)
 	
   console.log('----------------------- End Sample 5 ------------------------'); 
  
