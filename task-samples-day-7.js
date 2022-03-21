@@ -2,11 +2,12 @@
 
  //  JavaScript basics:
  
- //  Thorough the JavaScript Getters and Setters 7.https://www.youtube.com/watch?v=bl98dm7vJt0 video link 
+ //  Thorough the JavaScript Getters and Setters methods 7.https://www.youtube.com/watch?v=bl98dm7vJt0 video link 
  
- // 7. JavaScript Getters and Setters (tutorial)
+ // 7. JavaScript Getters and Setters methods (tutorial)
 
- // Getters - access properties // Setter - change(mutate) them
+ // Getters - access properties
+ // Setter - change(mutate) them
  
  // ECMAScript 5 (ES5 2009) introduced Getter and Setters.
 
