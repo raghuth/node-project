@@ -98,7 +98,7 @@ console.log('----------------------- End Sample 6 ------------------------');
         }
 }
 // Hence, when % is used with 2, the number is even if the remainder is zero. Otherwise, the number is odd.
- console.log('----------------------- Sample 7 ------------------------')
+ console.log('----------------------- End Sample 7 ------------------------')
  
    ///// Sample 8 ///////
 // for loop with find odd and even numbr with ternary operator condition function
@@ -113,6 +113,6 @@ console.log('----------------------- Sample 8 ------------------------')
 }
 findOddAndEven(0, 15);
 
-console.log('----------------------- Sample 8 ------------------------')
+console.log('-----------------------End Sample 8 ------------------------')
  
 //////////////////////////
