@@ -118,10 +118,11 @@
 
 	// Display data from the object using a getter:
  console.log('language property in uppercase: ',personPropertyInUpperCase.lang)
+  console.log('----------------------- End Sample 5 ------------------------'); 
  
  ///// Sample 6///////
 	
-  console.log('----------------------- End Sample 6 ------------------------'); 
+  console.log('----------------------- Sample 6 ------------------------'); 
  
  // Using the lang property, in this example, returns the value of the language property in upper case:
  
@@ -146,7 +147,7 @@
    
  // Using DirectoryObject.setProperty() with person properties
   
-  console.log('----------------------- End Sample 7 ------------------------'); 
+  console.log('----------------------- Sample 7 ------------------------'); 
   const personObject = {
 		id:1,
 		name:'John Doe'
