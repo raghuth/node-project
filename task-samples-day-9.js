@@ -116,5 +116,22 @@
   console.log(`e = ${e}`)
  
   console.log('----------------------- End Sample 5 ------------------------'); 
+
+  ///// Sample 6 ///////
+
+  console.log('----------------------- Sample 6 ------------------------')
+  
+  // Number,String,Array,boolean - Primitive Values Types sample
+  
+  let item = [4,9];
+  console.log(`item = ${item}`)   
+  add(item,4)
+  console.log(`item = ${item}`)  
+  
+   function add(array,element) {
+	 array.push(element);   
+   }
+ 
+  console.log('----------------------- End Sample 6 ------------------------'); 
    
 //////////////////////////
