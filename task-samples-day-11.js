@@ -74,6 +74,7 @@
        console.log(`Object.keys - vlaue : ${personList[key]}`);  // The value of the current key. 
 	});
 
+ console.log('----------------------- End Sample 4 ------------------------')
 
  ///// Sample 5 ///////
 
